@@ -36,7 +36,7 @@ function Number() {
             <img src={Hand} alt="Hand" />
           </div>
         </div>
-        <div className="w-128 h-144 absolute right-0 flex">
+        <div className="w-128 h-144 absolute right-auto flex">
           <div className="h-20 w-full">
             <h1 className="font-abc text-black ml-20 sm:ml-8 mt-10 text-3xl">Autono In Numbers</h1>
           </div>
