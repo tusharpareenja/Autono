@@ -1,0 +1,56 @@
+.font-abc {
+    font-family: 'Your ABC Font', sans-serif;
+  }
+  
+  .footer-container {
+    background-color: #ffffff;
+    color: #000000;
+    padding: 2.5rem;
+  }
+  
+  .footer-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  
+  .footer-section {
+    margin-bottom: 2.5rem;
+  }
+  
+  .footer-bottom {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-top: 2.5rem;
+  }
+  
+  .footer-bottom p {
+    margin-bottom: 1rem;
+  }
+  
+  .footer-bottom a {
+    margin-left: 1rem;
+  }
+  
+  .footer-bottom a:hover {
+    text-decoration: underline;
+  }
+  
+  @media (min-width: 1024px) {
+    .footer-content {
+        flex-direction: row;
+    }
+  
+    .footer-bottom {
+        flex-direction: row;
+    }
+  
+    .footer-bottom p {
+        margin-bottom: 0;
+    }
+  
+    .footer-bottom a {
+        margin-left: 0;
+    }
+  }

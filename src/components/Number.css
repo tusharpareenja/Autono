@@ -1,0 +1,14 @@
+.small-line {
+    position: absolute;
+    bottom: 121px; /* Adjust as needed to position below the number */
+    left: 0;
+    width: 0;
+    height: 3px; /* Adjust the height as needed */
+    background-color: #000; /* The color of the small line */
+    transition: width 2s ease-out; /* Animation for the small line */
+  }
+  
+  .small-line.animate {
+    width: 100px; /* The target width of the small line */
+  }
+  
