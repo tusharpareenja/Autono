@@ -8,9 +8,9 @@ function Services() {
                 <div className='border-l-2 h-56 w-full ml-0'>
                     <div className='border-l-2 border-black h-56 w-full ml-8'>
                         <h1 className='ml-10 font-abc mb-3 tracking-widest'>SERVICES</h1>
-                        <h2 className='ml-10 font-abc text-3xl sm:text-4xl  mb-2 tracking-wide sm:tracking-widest'>We Deliver Exceptional</h2>
-                        <h2 className='ml-10 font-abc text-3xl sm:text-4xl mb-2 tracking-wide sm:tracking-widest'>Products and Services</h2>
-                        <h3 className='ml-10 font-abc text-3xl sm:text-4xl mb-10 tracking-wide sm:tracking-widest'>Around the World</h3>
+                        <h2 className='ml-10 font-abc text-2xl sm:text-4xl  mb-2 tracking-wide sm:tracking-widest'>We Deliver Exceptional</h2>
+                        <h2 className='ml-10 font-abc text-2xl sm:text-4xl mb-2 tracking-wide sm:tracking-widest'>Products and Services</h2>
+                        <h3 className='ml-10 font-abc text-2xl sm:text-4xl mb-10 tracking-wide sm:tracking-widest'>Around the World</h3>
                     </div>
                     <div className='mt-48 relative w-full h-screen'>
                         <div className=' font-abc font-normal text-3xl mb-10 tracking-widest ml-10 sm:ml-10 sm:5xl'>
