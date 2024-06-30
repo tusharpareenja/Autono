@@ -20,8 +20,8 @@ function Services() {
                         <div className=' w-72 ml-10 h-40 font-abc text-black break-words whitespace-normal sm:ml-10 mb-10 sm:mb-0 sm:w-96'>
                             I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font. I’m a great place for you to tell a story and let your users know a little more about you.
                         </div>
-                        <div className='ml-10 flex items-center sm:ml-10'>
-                            <div className='border border-solid border-black p-4 w-32 h-12 rounded-l-md text-center flex items-center justify-center hover:bg-black hover:text-white cursor-pointer'>
+                        <div className='ml-10 flex items-center sm:ml-10 z-10 '>
+                            <div className='border border-solid border-black p-4 w-32 h-12 rounded-l-md text-center flex items-center justify-center hover:bg-black hover:text-white cursor-pointer z-10'>
                                 READ MORE
                             </div>
                             <div className='border border-solid border-black w-14 h-12 flex items-center justify-center cursor-pointer rounded-r-md'>
