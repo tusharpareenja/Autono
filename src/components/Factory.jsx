@@ -13,7 +13,7 @@ function Factory() {
                     backgroundPosition: 'center'
                 }}
             >
-               <div className='absolute bg-black h-128 w-96 ml-10 rounded-lg flex'>
+               <div className='absolute bg-black h-128 w-96 ml-10 rounded-lg flex left-0'>
                    <div className='border-l-2 border-white h-100 w-full ml-8 mt-10'>
                        <div className='text-white ml-8 font-abc tracking-widest'>WHY AUTONO</div>
                        <div className='text-white ml-8 font-abc text-2xl'>
