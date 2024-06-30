@@ -13,14 +13,14 @@ function Services() {
                         <h3 className='ml-10 font-abc text-4xl mb-10 tracking-widest'>Around the World</h3>
                     </div>
                     <div className='mt-48 relative w-full h-screen'>
-                        <div className=' font-abc font-normal text-3xl mb-10 tracking-widest ml-44 sm:ml-10 sm:5xl'>
+                        <div className=' font-abc font-normal text-3xl mb-10 tracking-widest ml-10 sm:ml-10 sm:5xl'>
                             <h1>AUTONOMOUS</h1>
                             <h1>DRIVING</h1>
                         </div>
-                        <div className=' w-96 ml-44 h-40 font-abc text-black break-words whitespace-normal sm:ml-10'>
+                        <div className=' w-96 ml-10 h-40 font-abc text-black break-words whitespace-normal sm:ml-10'>
                             I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font. I’m a great place for you to tell a story and let your users know a little more about you.
                         </div>
-                        <div className='ml-44 flex items-center sm:ml-10'>
+                        <div className='ml-10 flex items-center sm:ml-10'>
                             <div className='border border-solid border-black p-4 w-32 h-12 rounded-l-md text-center flex items-center justify-center hover:bg-black hover:text-white cursor-pointer'>
                                 READ MORE
                             </div>

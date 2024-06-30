@@ -5,7 +5,7 @@ function Speed() {
     return (
         <>
             <div className='h-screen w-full mt-96 sm:mt-20 text-black flex items-center justify-center relative'>
-                <div className='absolute sm:right-32'>
+                <div className='absolute left-18 '>
                     <h1 className='text-3xl mb-4 font-abc mt-60 md:text-5xl'>REAL-TIME</h1>
                     <h1 className='text-3xl mb-8 font-abc md:text-5xl'>INFORMATION</h1>
                     <div className='w-96 h-40 font-abc text-black break-words whitespace-normal'>
