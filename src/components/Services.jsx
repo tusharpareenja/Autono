@@ -8,16 +8,16 @@ function Services() {
                 <div className='border-l-2 h-56 w-full ml-0'>
                     <div className='border-l-2 border-black h-56 w-full ml-8'>
                         <h1 className='ml-10 font-abc mb-3 tracking-widest'>SERVICES</h1>
-                        <h2 className='ml-10 font-abc text-4xl mb-2 tracking-widest'>We Deliver Exceptional</h2>
-                        <h2 className='ml-10 font-abc text-4xl mb-2 tracking-widest'>Products and Services</h2>
-                        <h3 className='ml-10 font-abc text-4xl mb-10 tracking-widest'>Around the World</h3>
+                        <h2 className='ml-10 font-abc text-3xl sm:text-4xl  mb-2 tracking-wide sm:tracking-widest'>We Deliver Exceptional</h2>
+                        <h2 className='ml-10 font-abc text-3xl sm:text-4xl mb-2 tracking-wide sm:tracking-widest'>Products and Services</h2>
+                        <h3 className='ml-10 font-abc text-3xl sm:text-4xl mb-10 tracking-wide sm:tracking-widest'>Around the World</h3>
                     </div>
                     <div className='mt-48 relative w-full h-screen'>
                         <div className=' font-abc font-normal text-3xl mb-10 tracking-widest ml-10 sm:ml-10 sm:5xl'>
                             <h1>AUTONOMOUS</h1>
                             <h1>DRIVING</h1>
                         </div>
-                        <div className=' w-96 ml-10 h-40 font-abc text-black break-words whitespace-normal sm:ml-10'>
+                        <div className=' w-72 ml-10 h-40 font-abc text-black break-words whitespace-normal sm:ml-10 mb-10 sm:mb-0 sm:w-96'>
                             I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font. I’m a great place for you to tell a story and let your users know a little more about you.
                         </div>
                         <div className='ml-10 flex items-center sm:ml-10'>

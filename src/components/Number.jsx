@@ -38,9 +38,9 @@ function Number() {
         </div>
         <div className="w-128 h-144 absolute right-0 flex">
           <div className="h-20 w-full">
-            <h1 className="font-abc text-black ml-28 sm:ml-8 mt-10 text-3xl">Autono In Numbers</h1>
+            <h1 className="font-abc text-black ml-36 sm:ml-8 mt-10 text-3xl">Autono In Numbers</h1>
           </div>
-          <div className="flex absolute left-28 sm:left-0 top-44 w-44 h-44" ref={numberRef1}>
+          <div className="flex absolute left-36 sm:left-0 top-44 w-44 h-44" ref={numberRef1}>
             <div className="font-abc tracking-wider">
               <h1 className='text-3xl font-medium'>200</h1>
               <div className={`small-line ${isInView ? 'animate' : ''}`}></div>
@@ -56,7 +56,7 @@ function Number() {
             </div>
           </div>
           
-          <div className="flex absolute left-28  sm:left-0 bottom-0  w-44 h-44" ref={numberRef3}>
+          <div className="flex absolute left-36  sm:left-0 bottom-0  w-44 h-44" ref={numberRef3}>
             <div className="font-abc tracking-wider">
               <h1 className='text-3xl font font-medium'>200M$</h1>
               <div className={`small-line ${isInView ? 'animate' : ''}`}></div>

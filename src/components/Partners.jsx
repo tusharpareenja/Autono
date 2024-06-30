@@ -11,10 +11,10 @@ function Partners() {
                 <div className='border-l-2 border-white h-96 w-full ml-8'>
                     <div>
                         <h1 className='text-white ml-10 font-abc mb-10 tracking-widest'>PARTNERS</h1>
-                        <h2 className='text-white ml-10 font-abc text-4xl mb-2 tracking-widest'>OUR</h2>
-                        <h2 className='text-white ml-10 font-abc text-4xl mb-20 tracking-widest'>PARTNERS</h2>
+                        <h2 className='text-white ml-10 font-abc text-3xl mb-2 tracking-wide sm:tracking-widest sm:text-4xl'>OUR</h2>
+                        <h2 className='text-white ml-10 font-abc text-3xl mb-20 tracking-wide sm:tracking-widest sm:text-4xl'>PARTNERS</h2>
                     </div>
-                    <div className=' w-96 ml-10 h-40 font-abc text-white break-words whitespace-normal'>
+                    <div className=' w-72 ml-10 h-40 font-abc text-white break-words whitespace-normal'>
                         I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font. I’m a great place for you to tell a story and let your users know a little more about you.
                     </div>
                 </div>

@@ -5,10 +5,10 @@ function Speed() {
     return (
         <>
             <div className='h-screen w-full mt-96 sm:mt-20 text-black flex items-center justify-center relative'>
-                <div className='absolute left-18 '>
+                <div className='absolute left-10 '>
                     <h1 className='text-3xl mb-4 font-abc mt-60 md:text-5xl'>REAL-TIME</h1>
                     <h1 className='text-3xl mb-8 font-abc md:text-5xl'>INFORMATION</h1>
-                    <div className='w-96 h-40 font-abc text-black break-words whitespace-normal'>
+                    <div className='w-72 flex h-40 font-abc text-black break-words whitespace-normal mb-14'>
                         I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font. I’m a great place for you to tell a story and let your users know a little more about you.
                     </div>
                     <div className='flex items-center'>
