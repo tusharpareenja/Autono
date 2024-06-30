@@ -12,10 +12,10 @@ function Speed() {
                         I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font. I’m a great place for you to tell a story and let your users know a little more about you.
                     </div>
                     <div className='flex items-center '>
-                        <div className='mb-52 border border-solid border-black p-4 w-32 h-12 rounded-l-md text-center flex items-center justify-center hover:bg-black hover:text-white cursor-pointer z-10'>
+                        <div className='mb-60 border border-solid border-black p-4 w-32 h-12 rounded-l-md text-center flex items-center justify-center hover:bg-black hover:text-white cursor-pointer z-10'>
                             READ MORE
                         </div>
-                        <div className='mb-52 border border-solid border-black w-14 h-12 flex items-center justify-center cursor-pointer rounded-r-md'>
+                        <div className='mb-60 border border-solid border-black w-14 h-12 flex items-center justify-center cursor-pointer rounded-r-md'>
                             <svg className='w-6 h-6 text-black' fill='none' stroke='currentColor' viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg'>
                                 <path strokeLinecap='round' strokeLinejoin='round' strokeWidth='2' d='M9 5l7 7-7 7'></path>
                             </svg>
